@@ -15,7 +15,7 @@ Counter Widget is a simple, lightweight, always-on-top app designed for easy cou
 <hr>
 
 ## Getting Started:
-- Download Counter Widget from the [releases page](https://github.com/StormTersteeg/counter-widget/releases).
+- Download Counter Widget from the [releases page](https://github.com/StormTersteeg/counter-pin/releases).
 - Launch the app. The counter widget will appear on your screen.
 - Tap the "+" and "-" buttons to adjust the count as needed.
 - Use the palette icon to explore and switch between available themes.
