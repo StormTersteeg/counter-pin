@@ -1,4 +1,4 @@
-# Counter Widget
+# counter-pin
 Your Handy Always-On-Top Counter Tool
 
 ![counter-widget](https://raw.githubusercontent.com/StormTersteeg/counter-pin/refs/heads/main/theme-preview.png)
